@@ -2,8 +2,6 @@
  
  <div>
   <a href="https://github.com/douglasrayboltt">
-  <img height="180em" src=""/>
-  <img height="180em" src=""/>
 </div>
 
   
