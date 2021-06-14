@@ -5,13 +5,13 @@
 </div>
 <span align="center">
 
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="20px"> Olá seja bem-vindo(a)!</h2>
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="20px"> Seja Bem-Vindo(a)!</h2>
 
 </span>
 
 <div align="center">
 
-<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="700px" />
+<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
 
 </div>
 
