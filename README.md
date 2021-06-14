@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500px" />
+<img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400px" />
 
 </div>
 
