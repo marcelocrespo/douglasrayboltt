@@ -27,7 +27,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>JavaScript, Css e HTML.</strong>
+  🚀  Estudando: <strong>JavaScript, CSS e HTML.</strong>
 </p>
 
 <p align="center">
