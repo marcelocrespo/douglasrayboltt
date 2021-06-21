@@ -9,7 +9,7 @@
 
 </span>
 
-<div align="center">
+<div align="right">
 
 <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400px" />
 
