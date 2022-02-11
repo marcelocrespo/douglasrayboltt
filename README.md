@@ -27,7 +27,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="center">
-  🚀  Estudando: <strong>JavaScript, React , Angulas .</strong>
+  🚀  Estudando: <strong>JavaScript, React , Angular .</strong>
 </p>
 
 <p align="center">
