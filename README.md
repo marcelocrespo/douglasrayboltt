@@ -59,10 +59,9 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 
  ## ⭐ GitHub Stats
  
- <div align="center">
+ <div align = centerpositionabsolute>
   <a href="https://github.com/douglasrayboltt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrayboltt&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
