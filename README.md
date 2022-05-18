@@ -64,13 +64,6 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrayboltt&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
-
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrayboltt&hide=css,java,html&theme=tokyonight">
-</p>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
