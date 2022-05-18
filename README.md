@@ -1,6 +1,4 @@
-## Óla, 
-
-Eu me chamo Douglas Rayboltt! 
+## Óla, Eu me chamo Douglas Rayboltt! 
  
  <div>
   <a href="https://github.com/douglasrayboltt">
