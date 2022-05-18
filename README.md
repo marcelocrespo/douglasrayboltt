@@ -63,7 +63,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=tokyonight&line_height=27">
-  <a href="[https://www.instagram.com/douglasrayboltt/" alt="Instagram](https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=tokyonight&line_height=27)">
+  <a href="(https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=tokyonight&line_height=27)">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrayboltt&hide=css,java,html&theme=tokyonight">
 </p>
   
