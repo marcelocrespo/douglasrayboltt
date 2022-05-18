@@ -43,7 +43,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   <a href="https://www.facebook.com/douglas.rayboltt/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/keidsonroby/"/></a>
   
-  <a href="https://www.linkedin.com/in/douglas-rayboltt-rodrigues-1b8b67186/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/douglas-rayboltt-1b8b67186/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/" /></a>
 </p>  
 
@@ -62,7 +62,6 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
  ## ⭐ GitHub Stats
 
 <p align = "center">
-  <a href="(https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=tokyonight&line_height=27)">
   <img src = "https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrayboltt&hide=css,java,html&theme=tokyonight">
 </p>
