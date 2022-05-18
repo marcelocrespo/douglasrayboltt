@@ -53,8 +53,8 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   
  
  <img src="https://img.shields.io/badge/-Javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25"/>
-<img src="https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+ <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white" height="25"/>
+ <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
 
 </p>
 
@@ -62,8 +62,8 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
  ## ⭐ GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=tokyonight&line_height=27">
   <a href="(https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=tokyonight&line_height=27)">
+  <img src = "https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrayboltt&hide=css,java,html&theme=tokyonight">
 </p>
   
