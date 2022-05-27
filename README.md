@@ -10,8 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasrayboltt&color=yellow" alt="Profile views" /> </p>
 
 - Sou <strong>Estudante de Programação</strong>.<br /></p>
-<p>Tenho um grande sonho de me tornar um <strong>Programador,</strong>
-e poder criar algo que possa ajudar todas as pessoas>.
+<p>Tenho um grande sonho de me tornar um <strong>Programador,</strong> e poder criar algo que possa ajudar todas as pessoas>.
 </p>
 
 <p align="center">
@@ -34,7 +33,7 @@ e poder criar algo que possa ajudar todas as pessoas>.
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="center">
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=vision-friendly-dark" alt="douglasrayboltt's stats"/>
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrayboltt&layout=compact&theme=vision-friendly-dark" alt="douglasrayboltt's most languages"/>
 </p>
