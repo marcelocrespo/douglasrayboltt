@@ -17,7 +17,7 @@
   -  Estudando: <strong>JavaScript, React , Angular .</strong>
 </p>
 
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -29,7 +29,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -38,7 +38,7 @@
 <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrayboltt&layout=compact&theme=vision-friendly-dark" alt="douglasrayboltt's most languages"/>
 </p>
 
-<br><br>
+<br>
  
 ## 👨🏽‍🦲 &nbsp;Social Links
  <h3>
