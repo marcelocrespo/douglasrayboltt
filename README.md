@@ -1,4 +1,4 @@
-<img align="right" height="320em" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
+<img align="right" height="280em" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
 # Óla, Eu me chamo Douglas Rayboltt !
  
  <div>
