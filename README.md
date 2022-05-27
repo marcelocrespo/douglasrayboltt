@@ -34,7 +34,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="430em" src="https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=vision-friendly-dark"%20alt="douglasrayboltt%27s%20stats"/>
+<img width="430em" src="https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=vision-friendly-dark"%20alt="douglasrayboltt%27s%20stat"/>
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrayboltt&layout=compact&theme=vision-friendly-dark" alt="douglasrayboltt's most languages"/>
 </p>
 
