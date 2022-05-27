@@ -33,7 +33,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="flex">
+<p align="justify-content: center">
 <img width="430em" src="https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=vision-friendly-dark" alt="douglasrayboltt's stats"/>
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrayboltt&layout=compact&theme=vision-friendly-dark" alt="douglasrayboltt's most languages"/>
 </p>
@@ -49,14 +49,14 @@
 <p align="center">
   <a href="https://www.instagram.com/douglasrayboltt/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"
-       height="23"/></a>
+       height="25"/></a>
   
   <a href="https://www.facebook.com/douglas.rayboltt/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/keidsonroby/"
-       height="23"/></a>
+       height="25"/></a>
   
   <a href="https://www.linkedin.com/in/douglas-rayboltt-1b8b67186/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/keidsonroby/"
-       height="23"/></a>
+       height="25"/></a>
 </p>  
 
