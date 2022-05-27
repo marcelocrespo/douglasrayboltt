@@ -44,7 +44,7 @@ e poder criar algo que possa<strong>ajudar todas as pessoas</strong>.
        height="23"/></a>
 </p>  
 
-🛠 💻 Tech Stack
+🛠  <strong>Tech Stack
 
 <p align="center">
   
@@ -58,7 +58,7 @@ e poder criar algo que possa<strong>ajudar todas as pessoas</strong>.
 
 </p>
 
- ## ⭐ GitHub Stats
+ ## ⭐ GitHub Stats </strong>
  
  <p align="center">
   <a href="https://github.com/douglasrayboltt">
