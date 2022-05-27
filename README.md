@@ -40,7 +40,7 @@
 
 <br><br>
 
- <p align="center" height="25"/>>
+ <p align="center" height=""/>>
   💌 Envie uma mensagem: ⤵️
 </p>
  
