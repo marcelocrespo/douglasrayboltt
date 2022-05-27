@@ -62,8 +62,8 @@ e poder criar algo que possa<strong>ajudar todas as pessoas</strong>.
  
  <p align="center">
   <a href="https://github.com/douglasrayboltt">
-  <img height="173em" src="https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrayboltt&layout=compact&langs_count=7&theme=dark"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrayboltt&layout=compact&langs_count=7&theme=dark"/>
  </p>
  
  
