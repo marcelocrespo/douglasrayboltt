@@ -60,7 +60,7 @@ e poder criar algo que possa<strong>ajudar todas as pessoas</strong>.
 
  ## ⭐ GitHub Stats </strong>
  
- <p align="center">
+ <p align=" position: relative;">
   <a href="https://github.com/douglasrayboltt">
   <img height="175px" src="https://github-readme-stats.vercel.app/api?username=douglasrayboltt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrayboltt&layout=compact&langs_count=7&theme=dark"/>
