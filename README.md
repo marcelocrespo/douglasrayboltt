@@ -39,13 +39,11 @@
 </p>
 
 <br><br>
-
+ 
+## 👨🏽‍🦲 &nbsp;Social Links
  <p align="center" height="25"/>
   💌 Envie uma mensagem: ⤵️
 </p>
- 
-## 👨🏽‍🦲 &nbsp;Social Links
-
 <p align="center">
   <a href="https://www.instagram.com/douglasrayboltt/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/keidsondesigner/"
