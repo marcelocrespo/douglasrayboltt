@@ -1,4 +1,4 @@
-<img align="right" height="80em" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
+<img align="right" height="280em" src="https://www.mygo.ge/uploads/blog/1584023795.jpg"/>
 # Óla, Eu me chamo Douglas Rayboltt !
  
  <div>
@@ -6,7 +6,7 @@
 </div>
 <span align="center">
 
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="20px"> Seja Bem-Vindo(a) !
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="2px"> Seja Bem-Vindo(a) !
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasrayboltt&color=yellow" alt="Profile views" /> </p>
 
 - Sou <strong>Estudante de Programação</strong>.<br /></p>
