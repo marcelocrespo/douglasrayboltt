@@ -6,7 +6,7 @@
 </div>
 <span align="center">
 
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="2px"> Seja Bem-Vindo(a) !
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="25"> Seja Bem-Vindo(a) !
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasrayboltt&color=yellow" alt="Profile views" /> </p>
 
 - Sou <strong>Estudante de Programação</strong>.<br /></p>
